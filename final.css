@@ -1,0 +1,28 @@
+#finalheader {
+    background-color: #0A5286;
+    margin: 0px;
+    padding: 0px;
+    height: 150px;
+    width: 1100px;
+}
+.subheaderSection {
+    background-color: #732F06;
+    margin: 0px;
+    padding: 0px;
+    height: 80px;
+    width: 1100px;
+}
+.StepButtons {
+    background-color: #122386;
+    margin: 0px;
+    padding: 0px;
+    height: 300px;
+    width: 200px;
+}
+#step0 {
+    background-color: #663804;
+    margin: 0px;
+    padding: 0px;
+    height: 6000px;
+    width: 500px;
+}
